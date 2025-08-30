@@ -6,7 +6,7 @@
 - 👯 I’m open to collaborating on any ideas that require technical expertise and can make a meaningful impact on people's lives!
 - 💬 Ask me about system design, distributed systems, cloud solutions, software architectures, design patterns, object-oriented design (SOLID), and of course, cooking! :)
 - 📫 How to reach me: manishpodiyal@gmail.com or [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://in.linkedin.com/in/manishpodiyal)
-- ⚡ Fun fact: I'm a good cook, but most of my dishes tend to taste the same! 😉
+- ⚡ Fun fact: Outside of coding, I like to cook, and while my dishes often taste alike, I proudly call it my trademark flavor! 😉
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://in.linkedin.com/in/manishpodiyal)
