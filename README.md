@@ -1,7 +1,7 @@
 # Hi there, I'm Manish Podiyal 👋
 
 ## About Me
-- 🔭 I’m currently working on translating my experience in designing scalable distributed systems into practical examples to help others understand these concepts.
+- 🔭 I’m currently working on translating my expertise in designing scalable distributed systems through practical examples that make advanced concepts more accessible to practitioners.
 - 🌱 I’m learning new things every day! Recently, I’m focusing on maximizing the value of AI integrations within existing products, harnessing its potential to drive real improvements and enhance user experience.
 - 👯 I’m open to collaborating on any ideas that require technical expertise and can make a meaningful impact on people's lives!
 - 💬 Ask me about system design, distributed systems, cloud solutions, software architectures, design patterns, object-oriented design (SOLID), and of course, cooking! :)
