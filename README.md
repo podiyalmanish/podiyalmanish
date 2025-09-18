@@ -56,5 +56,6 @@
 *Experimental R&D initiatives focused on large-scale, high-load systems.*
 #### - [Online Marketplace (WIP)](https://podiyalmanish.github.io/online-marketplace-wip) 
 *Experimental testbed for scalability and faceted product search — initially seeded with 5M products, architected to scale without breaking.*
-<img width="1901" height="1079" alt="image" src="https://github.com/user-attachments/assets/e4969d7b-79a0-484b-99c1-d95684978975" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b4bc2dc4-362d-4767-a2db-f2d4b4762d8b" />
+
 
